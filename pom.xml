@@ -11,6 +11,7 @@
     <modules>
         <module>databoard-lab-common</module>
         <module>databoard-lab-starter</module>
+        <module>databoard-lab-draw</module>
     </modules>
 
     <properties>
